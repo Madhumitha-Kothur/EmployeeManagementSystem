@@ -1,4 +1,4 @@
-package com.preethi.emp;
+package com.madhu.emp;
 
 import java.util.Scanner;
 
