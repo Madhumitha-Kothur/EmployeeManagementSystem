@@ -1,4 +1,4 @@
-package com.preethi.emp;
+package com.madhu.emp;
 
 public interface EmployeeInterface {
     public void createEmployee(Employee emp);
