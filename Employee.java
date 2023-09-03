@@ -1,4 +1,4 @@
-package com.preethi.emp;
+package com.madhu.emp;
 
 public class Employee {
     private int id;
